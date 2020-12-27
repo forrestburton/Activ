@@ -8,7 +8,7 @@ Activ is a web app that allows users to post and share location-tagged video cli
 
 **In order to intstall Activ, create a new directory and run:**
 
-**git clone https://github.com/forrestburton/Activ**
+**'git clone https://github.com/forrestburton/Activ'**
 
 git clone should copy the project folders and files from github to your current directory
 
